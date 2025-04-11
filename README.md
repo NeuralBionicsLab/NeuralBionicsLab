@@ -10,6 +10,7 @@ iHeart
 -  In-Silico Modeling: Utilizing computational models to understand neural mechanisms and improve human-machine interfacing.​
 
 🌐 GLOBAL COLLABORATIONS
+
 We actively engage in international collaborations with academic institutions, hospitals, and industry partners worldwide. These partnerships facilitate data sharing, joint research projects, and the co-development of neurotechnologies, enhancing our mission to restore and augment human sensorimotor functions.
 
 📍 LOCATIONS
