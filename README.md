@@ -1,4 +1,5 @@
 Neural Bionics Lab @ Chalmers University of Technology
+
 Empowering lives through neurotechnology
 
 The Neural Bionics Lab, led by Dr. Giacomo Valle, is part of the Department of Electrical Engineering and Life Bionics at Chalmers University of Technology in Gothenburg, Sweden. Our mission is to develop advanced neurotechnologies that bridge the gap between the human nervous system and assistive devices, aiming to restore and enhance sensorimotor functions in individuals with neurological impairments.​
