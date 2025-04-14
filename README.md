@@ -6,8 +6,7 @@ The Neural Bionics Lab, led by Dr. Giacomo Valle, is part of the Department of E
 
 🔬 RESEARCH FOCUS
 -  Intracortical Brain-Computer Interfaces (BCIs): Developing systems to restore somatosensation in individuals with paralysis.​
--  Bidirectional Neural Prosthetics: Creating prosthetic limbs that can both receive commands from and send sensory feedback to the nervous system.​
-iHeart
+-  Bidirectional Neural Devices: Creating prosthetic limbs and exoskeletons that can both receive commands from and send sensory feedback to the nervous system.​
 -  In-Silico Modeling: Utilizing computational models to understand neural mechanisms and improve human-machine interfacing.​
 
 🌐 GLOBAL COLLABORATIONS
